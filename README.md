@@ -32,4 +32,4 @@ Requires Python 3 (Tkinter is included with the standard installer).
 Data is stored in memory while the app is running.
 
 ## Team
-[Team names]
+[Team 5]
