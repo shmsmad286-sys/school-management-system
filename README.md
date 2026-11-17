@@ -9,9 +9,19 @@ A simple desktop app to manage students, teachers and grades, built with pure Py
 - Automatic grade average for each student
 
 ## Screenshots
+
+### Students
 ![Students](docs/students.png)
+
+### Teachers
 ![Teachers](docs/teachers.png)
+
+### Grades
 ![Grades](docs/grades.png)
+![Grades 2](docs/grades1.png)
+
+### Student Averages
+![Average](docs/average.png)
 
 ## OOP Design
 | Class | Role | Concept |
