@@ -11,17 +11,17 @@ A simple desktop app to manage students, teachers and grades, built with pure Py
 ## Screenshots
 
 ### Students
-![Students](docs/students.png)
+![Students](docs/students.png.jpg)
 
 ### Teachers
-![Teachers](docs/teachers.png)
+![Teachers](docs/teachers.png.jpg)
 
 ### Grades
-![Grades](docs/grades.png)
-![Grades 2](docs/grades1.png)
+![Grades](docs/grades.png.jpg)
+![Grades 2](docs/grades1.png.jpg)
 
 ### Student Averages
-![Average](docs/average.png)
+![Average](docs/average.png.jpg)
 
 ## OOP Design
 | Class | Role | Concept |
